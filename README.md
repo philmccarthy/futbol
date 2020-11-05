@@ -1,6 +1,6 @@
 # Futbol
 
-Futbol is a [Turing School](https://turing.io/) project by [Ely Hess](https://github.com/elyhess), [Phil McCarthy](https://github.com/philmccarthy) & [Robert Hess](https://github.com/kaiheiongaku). It was completed during Mod 1—week 4 & 5—of the backend engineering program.
+Futbol is a [Turing School](https://turing.io/) project by [Ely Hess](https://github.com/elyhess), [Phil McCarthy](https://github.com/philmccarthy) & [Robert Heath](https://github.com/kaiheiongaku). It was completed during Mod 1—week 4 & 5—of the backend engineering program.
 
 ### Learning Goals
 - Build classes with single responsibilities.
